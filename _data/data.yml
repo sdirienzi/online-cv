@@ -69,7 +69,7 @@ studies:
       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
       university: Bryn Mawr, PA, USA
       time: 2002-2006
-      details: "I created and analyzed a protein network for a C. elegans meiotic protein of unknown function."
+      details: "I used Systems Biology to create and analyze a protein network for a <i C. elegans meiotic protein of unknown function </i>."
 
     
 
@@ -81,45 +81,17 @@ experiences:
     
     experiences:
         - role: National Library of Medicine Training Program in Biomedical Informatics
-          time: 2017 - Present
+          time: 2017
         - role: Eli & Edythe Broad Fellow of the Life Sciences Research Foundation 
-          time: 2013 - 2016
+          time: 2013
         - role: NSF East Asia and Pacific Summer Institute Fellowship
-          time: Summer of 2011
+          time: 2011
         - role: Young Presenter Prize for top oral presentation, Comparative Genomics of Eukaryotic Microorganisms Conference
           time: 2009
-
-
-
-projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    projects:
-      - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-
+        - role: Barry M. Goldwater Scholar
+          time: 2005
+        - role: Howard Hughes Medical Institute Interdisciplinary Scholar 
+          time: 2005
 
 
 publications:
@@ -139,6 +111,10 @@ publications:
         title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+
+
+
+
 
 
 #add full CV
