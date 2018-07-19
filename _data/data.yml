@@ -4,44 +4,36 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
+    title: Sara C. Di Rienzi
+    #url: 'https://scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sara C. Di Rienzi
+    tagline: Studying the adaptation of the gut microbiome to diet
+    pic: smallphotoSDR.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
-    interests:
+    email: sara.dirienzi@bcm.edu
+    website: tinyurl.com/y832txmj #scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en #do not add http://
+    linkedin: sdirienzi
+    github: sdirienzi
+    twitter: '@sdirienzi'
+  
+    research interests:
         - interest:
-          item: Climbing
+          item: Small intestine gut microbiome
           link:
         - interest:
-          item: Snowboarding
+          item: Dietary fats
           link:
         - interest:
-          item: Cooking
+          item: Dietary sugar
           link:
+        - interest:
+          item: evolution
+          link:
+          
 
         
 
