@@ -18,9 +18,9 @@ sidebar:
     website: tinyurl.com/y832txmj #scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en #do not add http://
     linkedin: sdirienzi
     github: sdirienzi
-    twitter: '@sdirienzi'
+    twitter: '@SaraDiRienzi'
   
-    research interests:
+    interests:
         - interest:
           item: Small intestine gut microbiome
           link:
@@ -41,28 +41,33 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: Research Topic
+    text: 'I am investigating how the the functional and genetic variation of the small intestinal microbiome that is selected by the Western diet'
 
 
-studies: 
+studies:
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
+      degree: Post-Doc with Dr. Robert Britton
+      university: Baylor College of Medicine, Houston, TX, USA
+      time: 2017-present
+      details: "Experimentally evolved small intestine microbes in modern dietary sugars."
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Post-Doc with Dr. Ruth Ley
+      university: Cornell University, Ithaca, NY, USA
+      time: 2011-2017
+      details: "Experimentally evolved small intestine microbes in modern dietary sugars." 
+    - education:
+      degree: Summer Fellow with Dr. Yuichi Hongoh
+      university: Tokyo Institute of Technology, Tokyo, Japan
+      time: 2011
+      details: "Isolated a termite gut bacterium by laser dissection for whole genome sequencing."
+    - education:
+      degree: Ph.D. in Genome Sciences with Dr. Bonita Brewer
+      university: University of Washington, Seattle, WA, USA
+      time: 2006-2011
+      details: "Experimental evolved small intestine microbes in modern dietary sugars."
+
+    
 
 
 
@@ -119,7 +124,7 @@ projects:
 
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
@@ -137,27 +142,8 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+#add full CV
+
 
 
 footer: 
