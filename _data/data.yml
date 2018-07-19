@@ -65,11 +65,11 @@ studies:
       university: University of Washington, Seattle, WA, USA
       time: 2006-2011
       details: "I determined that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
-    - education:
-      degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
-      university: Bryn Mawr College, Bryn Mawr, PA, USA
-      time: 2002-2006
-      details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
+#     - education:
+#       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
+#       university: Bryn Mawr College, Bryn Mawr, PA, USA
+#       time: 2002-2006
+#       details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
 
     
 
@@ -94,50 +94,50 @@ experiences:
           time: 2005
 
 
-publications:
-    title:Publications (*co-first authors)
-    
-    publications:
-      - paper:
-        title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
-        authors: Di Rienzi SC, Jacobson J, Kennedy EA, Bell ME, Shi Q, Waters J, Lawrence P, Brenna JT, Britton RA, Walter J, Ley RE
-        conference: '<a href="https://elifesciences.org/articles/32581" target="_blank" rel="nofollow">eLife. 7: e3258 (2018)</a>'
-      - paper:
-       title: "Novel rhizosphere soil alleles for the enzyme 1-aminocyclopropane-1-carboxylate deaminase queried for function with an in vivo competition assay"
-       authors: Jin Z*, Di Rienzi SC*, Janzon A, Werner JJ, Angenent LT, Fowler DM, Dangl JL, and Ley RE
-       conference: '<a href="http://aem.asm.org/lookup/pmid?view=long&pmid=26637602" target="_blank" rel="nofollow">Applied and Environmental Microbiology. 82: 1050-1059 (2016)</a>'   
-      - paper:
-       title: "Origin-Dependent Inverted-Repeat Amplification: Tests of a model for inverted DNA amplification"
-       authors: Brewer BJ, Payen C, Di Rienzi SC, Higgins MM, Ong G, Dunham MJ, and Raghuraman MK
-       conference: '<a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005699" target="_blank" rel="nofollow">PLoS Genetics. 11: e1005699 (2015)</a>'
-     - paper:
-       title: "Conducting a microbiome study"
-       authors: Goodrich JK, Di Rienzi SC, Poole AC, Koren O, Walters WA, Caporaso JG, Knight R, and Ley RE 
-       conference: '<a href="https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(14)00864-2" target="_blank" rel="nofollow">Cell. 158: 250-262 (2014)</a>'
-     - paper:
-       title: "The dynamics of diverse segmental amplifications in populations of Saccharomyces cerevisiae adapting to strong selection"
-       authors: Payen C, Di Rienzi SC, Ong GT, Pogachar JL, Sanchez JC, Sunshine AB, Raghuraman MK, Brewer BJ, and Dunham MJ
-       conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962480/" target="_blank" rel="nofollow">G3: Genes, Genomes, Genetics. 4: 399-409 (2014)</a>'
-     - paper:
-       title: "The human gut and subsurface sediment harbor non-photosynthetic Cyanobacteria"
-       authors: Di Rienzi SC*, Sharon I*, Koren O, Wrighton K, Hug L, Thomas BC, Goodrich JK, Banfield, JF, and Ley RE
-       conference: '<a href="https://elifesciences.org/articles/01102" target="_blank" rel="nofollow">eLife. 2: e01102 (2013)</a>'
-     - paper:
-       title: "Maintaining replication origins in the face of genomic change"
-       authors: Di Rienzi SC*, Lindstrom KC*, Mann, T, Noble B, Raghuraman MK, and Brewer BJ
-       conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3460189/" target="_blank" rel="nofollow">Genome Research. 22: 1940-1952 (2012)</a>'
-     - paper:
-       title: "Replication stress-induced chromosome breakage is correlated with replication fork progression and is preceded by single-stranded DNA formation"
-       authors: Feng W, Di Rienzi SC, Raghuraman MK, and Brewer BJ
-       conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3276152/" target="_blank" rel="nofollow">G3: Genes, Genomes, Genetics. 1: 327-335 (2011)</a>'
-     - paper:
-       title: "Genetic, genomic, and molecular tools for studying the protoploid yeast, L. waltii"
-       authors: Di Rienzi SC*, Lindstrom KC*, Lancaster R, Rolczynski L, Raghuraman MK, and Brewer BJ
-       conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046631/" target="_blank" rel="nofollow">Yeast. 28: 137-151 (2010)</a>'
-    - paper:
-       title: "Fragile genomic sites are associated with origins of replication"
-       authors: Di Rienzi SC, Collingwood D, Raghuraman MK, and Brewer BJ
-       conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817429/" target="_blank" rel="nofollow">Genome Biology and Evolution. 1: 350-363 (2009)</a>'
+# publications:
+#     title:Publications (*co-first authors)
+#     
+#     publications:
+#       - paper:
+#         title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
+#         authors: Di Rienzi SC, Jacobson J, Kennedy EA, Bell ME, Shi Q, Waters J, Lawrence P, Brenna JT, Britton RA, Walter J, Ley RE
+#         conference: '<a href="https://elifesciences.org/articles/32581" target="_blank" rel="nofollow">eLife. 7: e3258 (2018)</a>'
+#       - paper:
+#        title: "Novel rhizosphere soil alleles for the enzyme 1-aminocyclopropane-1-carboxylate deaminase queried for function with an in vivo competition assay"
+#        authors: Jin Z*, Di Rienzi SC*, Janzon A, Werner JJ, Angenent LT, Fowler DM, Dangl JL, and Ley RE
+#        conference: '<a href="http://aem.asm.org/lookup/pmid?view=long&pmid=26637602" target="_blank" rel="nofollow">Applied and Environmental Microbiology. 82: 1050-1059 (2016)</a>'   
+#       - paper:
+#        title: "Origin-Dependent Inverted-Repeat Amplification: Tests of a model for inverted DNA amplification"
+#        authors: Brewer BJ, Payen C, Di Rienzi SC, Higgins MM, Ong G, Dunham MJ, and Raghuraman MK
+#        conference: '<a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005699" target="_blank" rel="nofollow">PLoS Genetics. 11: e1005699 (2015)</a>'
+#      - paper:
+#        title: "Conducting a microbiome study"
+#        authors: Goodrich JK, Di Rienzi SC, Poole AC, Koren O, Walters WA, Caporaso JG, Knight R, and Ley RE 
+#        conference: '<a href="https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(14)00864-2" target="_blank" rel="nofollow">Cell. 158: 250-262 (2014)</a>'
+#      - paper:
+#        title: "The dynamics of diverse segmental amplifications in populations of Saccharomyces cerevisiae adapting to strong selection"
+#        authors: Payen C, Di Rienzi SC, Ong GT, Pogachar JL, Sanchez JC, Sunshine AB, Raghuraman MK, Brewer BJ, and Dunham MJ
+#        conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962480/" target="_blank" rel="nofollow">G3: Genes, Genomes, Genetics. 4: 399-409 (2014)</a>'
+#      - paper:
+#        title: "The human gut and subsurface sediment harbor non-photosynthetic Cyanobacteria"
+#        authors: Di Rienzi SC*, Sharon I*, Koren O, Wrighton K, Hug L, Thomas BC, Goodrich JK, Banfield, JF, and Ley RE
+#        conference: '<a href="https://elifesciences.org/articles/01102" target="_blank" rel="nofollow">eLife. 2: e01102 (2013)</a>'
+#      - paper:
+#        title: "Maintaining replication origins in the face of genomic change"
+#        authors: Di Rienzi SC*, Lindstrom KC*, Mann, T, Noble B, Raghuraman MK, and Brewer BJ
+#        conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3460189/" target="_blank" rel="nofollow">Genome Research. 22: 1940-1952 (2012)</a>'
+#      - paper:
+#        title: "Replication stress-induced chromosome breakage is correlated with replication fork progression and is preceded by single-stranded DNA formation"
+#        authors: Feng W, Di Rienzi SC, Raghuraman MK, and Brewer BJ
+#        conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3276152/" target="_blank" rel="nofollow">G3: Genes, Genomes, Genetics. 1: 327-335 (2011)</a>'
+#      - paper:
+#        title: "Genetic, genomic, and molecular tools for studying the protoploid yeast, L. waltii"
+#        authors: Di Rienzi SC*, Lindstrom KC*, Lancaster R, Rolczynski L, Raghuraman MK, and Brewer BJ
+#        conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046631/" target="_blank" rel="nofollow">Yeast. 28: 137-151 (2010)</a>'
+#     - paper:
+#        title: "Fragile genomic sites are associated with origins of replication"
+#        authors: Di Rienzi SC, Collingwood D, Raghuraman MK, and Brewer BJ
+#        conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817429/" target="_blank" rel="nofollow">Genome Biology and Evolution. 1: 350-363 (2009)</a>'
 
        
 
