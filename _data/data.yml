@@ -53,7 +53,7 @@ studies:
     - education:
       degree: Post-Doc with Dr. Robert Britton
       university: Baylor College of Medicine, Houston, TX, USA
-      time: 2017-present
+      time: 2017-Present
       details: "I developed an in vitro microbial community representative of the small intestinal microbiome. Currently, I am developping this system combined with metagenomic-based whole genome assembly and modeling methods in order to identify the microbial gene variants selected in the presence of modern dietary sugars and ultimately determine the effect of these gene variants in a host."
     - education:
       degree: Post-Doc with Dr. Ruth Ley
@@ -67,7 +67,7 @@ studies:
       details: "I determined that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
     - education:
       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
-      university: Bryn Mawr, PA, USA
+      university: Bryn Mawr College, Bryn Mawr, PA, USA
       time: 2002-2006
       details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
 
