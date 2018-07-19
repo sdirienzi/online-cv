@@ -36,6 +36,12 @@ sidebar:
         - interest:
           item: Probiotics
           link:
+        - interest:
+          item: Long chain fatty acids
+          link:
+        - interest:
+          item: Sugars and sweeteners
+          link:
       
           
 
@@ -97,7 +103,6 @@ experiences:
 publications:
     title: Publications 
     intro: "(*co-first authors)"
-
     publications:
       - paper:
         title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
