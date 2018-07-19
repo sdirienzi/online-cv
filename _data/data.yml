@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Sara C. Di Rienzi
+    title: Sara C.<p/>Di Rienzi
     #url: 'https://scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -42,7 +42,7 @@ sidebar:
 
 career-profile: 
     title: Research Topic
-    text: 'I am investigating how the the functional and genetic variation of the small intestinal microbiome that is selected by the Western diet'
+    text: 'I am investigating how the functional and genetic variation of the small intestinal microbiome that is selected by the Western diet'
 
 
 studies:
