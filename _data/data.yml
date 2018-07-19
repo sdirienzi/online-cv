@@ -100,9 +100,9 @@ publications:
     
     publications:
       - paper:
-     #   title: The Art of Computer Programming
-      #  authors: Donald E. Knuth
-       # conference: Addison-Wesley, 1968
+        title: Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids
+        authors: Di Rienzi S. C., Jacobson J., Kennedy E. A., Bell M. E., Shi Q., Waters J L., Lawrence P., Brenna J. T., Britton R. A., Walter J., Ley R. E.
+        conference: eLife (2018) 7: e3258
       - paper:
        # title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
