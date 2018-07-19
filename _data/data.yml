@@ -95,7 +95,8 @@ experiences:
 
 
 publications:
-    title:Publications (*co-first authors)
+    title: Publications 
+    intro: "(*co-first authors)"
 
     publications:
       - paper:
