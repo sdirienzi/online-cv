@@ -96,13 +96,12 @@ experiences:
 
 publications:
     title: Selected Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
         title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
         authors: Di Rienzi S. C., Jacobson J., Kennedy E. A., Bell M. E., Shi Q., Waters J L., Lawrence P., Brenna J. T., Britton R. A., Walter J., Ley R. E.
-        conference: "eLife 7: e3258 (2018)"
+        conference: "<a href="https://elifesciences.org/articles/32581" target="_blank" rel="nofollow">eLife 7: e3258 (2018)</a>"
       - paper:
        # title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
