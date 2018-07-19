@@ -4,9 +4,10 @@
 
 sidebar:
     # Site Settings
-    title: Sara C.<p/>Di Rienzi
+    title: Sara C.
+    Di Rienzi
     #url: 'https://scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Sara C. Di Rienzi
@@ -22,17 +23,21 @@ sidebar:
   
     interests:
         - interest:
-          item: Small intestine gut microbiome
+          item: Experimental Evolution
           link:
         - interest:
-          item: Dietary fats
+          item: Nutrition
           link:
         - interest:
-          item: Dietary sugar
+          item: Metabolic Diseases
           link:
         - interest:
-          item: evolution
+          item: Western Diet
           link:
+        - interest:
+          item: Probiotics
+          link:
+      
           
 
         
@@ -50,22 +55,22 @@ studies:
       degree: Post-Doc with Dr. Robert Britton
       university: Baylor College of Medicine, Houston, TX, USA
       time: 2017-present
-      details: "Experimentally evolved small intestine microbes in modern dietary sugars."
+      details: "I developed an in vitro microbial community representative of the small intestinal microbiome. Currently, I am developping this system combined with bioinformatics and modeling methods in order to identify the microbial gene variants selected in the presence of modern dietary sugars and ultimately determine the effect of these gene variants in a host."
     - education:
       degree: Post-Doc with Dr. Ruth Ley
       university: Cornell University, Ithaca, NY, USA
       time: 2011-2017
-      details: "Experimentally evolved small intestine microbes in modern dietary sugars." 
+      details: "I discovered that beneficial microbes within the small intestine are resilient to the toxicity of dietary fats. I demonstrated that resistance to dietary fat can be acquired through mutation of membrane and fatty acid metabolism genes; however, host-associated microbes vary in resistance to dietary fat, indicating that host-associated microbes are protected from the toxicity of dietary fats." 
     - education:
       degree: Summer Fellow with Dr. Yuichi Hongoh
       university: Tokyo Institute of Technology, Tokyo, Japan
       time: 2011
-      details: "Isolated a termite gut bacterium by laser dissection for whole genome sequencing."
+      details: "In this summer fellowship, I isolated a termite gut bacterium by laser dissection for whole genome sequencing."
     - education:
       degree: Ph.D. in Genome Sciences with Dr. Bonita Brewer
       university: University of Washington, Seattle, WA, USA
       time: 2006-2011
-      details: "Experimental evolved small intestine microbes in modern dietary sugars."
+      details: "I discovered that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
 
     
 
