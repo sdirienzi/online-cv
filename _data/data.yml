@@ -9,7 +9,7 @@ sidebar:
     #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Sara C. Di Rienzi
+    name: Sara C.    Di Rienzi
     tagline: Studying the adaptation of the gut microbiome to diet
     pic: smallphotoSDR.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
@@ -67,8 +67,8 @@ studies:
       details: "I determined that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
 	- education:
       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
-#       university: Bryn Mawr College, Bryn Mawr, PA, USA
-#       time: 2002-2006
+      university: Bryn Mawr College, Bryn Mawr, PA, USA
+      time: 2002-2006
 #       details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
 
     
