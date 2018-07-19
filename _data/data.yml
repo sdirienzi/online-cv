@@ -4,13 +4,12 @@
 
 sidebar:
     # Site Settings
-    title: Sara C.
-    Di Rienzi
+    title: Sara C. Di Rienzi
     #url: 'https://scholar.google.com/citations?user=jqO-DFQAAAAJ&hl=en'
     #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Sara C. Di Rienzi
+    name: Sara C.<p/>Di Rienzi
     tagline: Studying the adaptation of the gut microbiome to diet
     pic: smallphotoSDR.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
