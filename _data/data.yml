@@ -65,10 +65,10 @@ studies:
       university: University of Washington, Seattle, WA, USA
       time: 2006-2011
       details: "I determined that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
-    - education:
+	- education:
       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
-      university: Bryn Mawr College, Bryn Mawr, PA, USA
-      time: 2002-2006
+#       university: Bryn Mawr College, Bryn Mawr, PA, USA
+#       time: 2002-2006
 #       details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
 
     
@@ -94,8 +94,8 @@ experiences:
           time: 2005
 
 
-publications:
-    title:Publications (*co-first authors)
+# publications:
+#     title:Publications (*co-first authors)
 #     
 #     publications:
 #       - paper:
