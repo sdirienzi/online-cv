@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Sara C. Di Rienzi
     tagline: Studying the adaptation of the gut microbiome to diet
-    pic: smallphotoSDR.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: smallphotoSDR.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: sara.dirienzi@bcm.edu
@@ -54,33 +54,33 @@ studies:
       degree: Post-Doc with Dr. Robert Britton
       university: Baylor College of Medicine, Houston, TX, USA
       time: 2017-present
-      details: "I developed an in vitro microbial community representative of the small intestinal microbiome. Currently, I am developping this system combined with bioinformatics and modeling methods in order to identify the microbial gene variants selected in the presence of modern dietary sugars and ultimately determine the effect of these gene variants in a host."
+      details: "I developed an in vitro microbial community representative of the small intestinal microbiome. Currently, I am developping this system combined with metagenomic-based whole genome assembly and modeling methods in order to identify the microbial gene variants selected in the presence of modern dietary sugars and ultimately determine the effect of these gene variants in a host."
     - education:
       degree: Post-Doc with Dr. Ruth Ley
       university: Cornell University, Ithaca, NY, USA
       time: 2011-2017
       details: "I discovered that beneficial microbes within the small intestine are resilient to the toxicity of dietary fats. I demonstrated that resistance to dietary fat can be acquired through mutation of membrane and fatty acid metabolism genes; however, host-associated microbes vary in resistance to dietary fat, indicating that host-associated microbes are protected from the toxicity of dietary fats." 
     - education:
-      degree: Summer Fellow with Dr. Yuichi Hongoh
-      university: Tokyo Institute of Technology, Tokyo, Japan
-      time: 2011
-      details: "In this summer fellowship, I isolated a termite gut bacterium by laser dissection for whole genome sequencing."
-    - education:
       degree: Ph.D. in Genome Sciences with Dr. Bonita Brewer
       university: University of Washington, Seattle, WA, USA
       time: 2006-2011
-      details: "I discovered that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
+      details: "I determined that chromosomal replication is maintained over evolutionary time through the existence of redundant and potential replication sites in the genome. My research also revealed a previously unrecognized role of replication origins in genome rearrangements and gene amplifications."
+  - education:
+      degree: A.B. in Biology, <isumma cum laude/>, with Dr. Philip Meneely. 
+      university: Bryn Mawr, PA, USA
+      time: 2002-2006
+      details: "I created and analyzed a protein network for a <iC. elegans/> meiotic protein of unknown function"
 
     
 
 
 
 experiences:
-    title: Awards and Honors
+    title: Selected Awards and Honors
     
     
     experiences:
-   #     - role: Lead Developer
+        - role: Lead Developer
     #      time: 2015 - Present
      #     company: Startup Hubs, San Francisco
       #    details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
