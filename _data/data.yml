@@ -96,20 +96,20 @@ experiences:
 
 publications:
     title:Publications (*co-first authors)
-#     
-#     publications:
-#       - paper:
-#         title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
-#         authors: Di Rienzi SC, Jacobson J, Kennedy EA, Bell ME, Shi Q, Waters J, Lawrence P, Brenna JT, Britton RA, Walter J, Ley RE
-#         conference: '<a href="https://elifesciences.org/articles/32581" target="_blank" rel="nofollow">eLife. 7: e3258 (2018)</a>'
-#       - paper:
-#        title: "Novel rhizosphere soil alleles for the enzyme 1-aminocyclopropane-1-carboxylate deaminase queried for function with an in vivo competition assay"
-#        authors: Jin Z*, Di Rienzi SC*, Janzon A, Werner JJ, Angenent LT, Fowler DM, Dangl JL, and Ley RE
-#        conference: '<a href="http://aem.asm.org/lookup/pmid?view=long&pmid=26637602" target="_blank" rel="nofollow">Applied and Environmental Microbiology. 82: 1050-1059 (2016)</a>'   
-#       - paper:
-#        title: "Origin-Dependent Inverted-Repeat Amplification: Tests of a model for inverted DNA amplification"
-#        authors: Brewer BJ, Payen C, Di Rienzi SC, Higgins MM, Ong G, Dunham MJ, and Raghuraman MK
-#        conference: '<a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005699" target="_blank" rel="nofollow">PLoS Genetics. 11: e1005699 (2015)</a>'
+     
+    publications:
+        - paper:
+          title: "Resilience of small intestinal beneficial bacteria to the toxicity of soybean oil fatty acids"
+          authors: Di Rienzi SC, Jacobson J, Kennedy EA, Bell ME, Shi Q, Waters J, Lawrence P, Brenna JT, Britton RA, Walter J, Ley RE
+          conference: '<a href="https://elifesciences.org/articles/32581" target="_blank" rel="nofollow">eLife. 7: e3258 (2018)</a>'
+        - paper:
+          title: "Novel rhizosphere soil alleles for the enzyme 1-aminocyclopropane-1-carboxylate deaminase queried for function with an in vivo competition assay"
+          authors: Jin Z*, Di Rienzi SC*, Janzon A, Werner JJ, Angenent LT, Fowler DM, Dangl JL, and Ley RE
+          conference: '<a href="http://aem.asm.org/lookup/pmid?view=long&pmid=26637602" target="_blank" rel="nofollow">Applied and Environmental Microbiology. 82: 1050-1059 (2016)</a>'   
+        - paper:
+          title: "Origin-Dependent Inverted-Repeat Amplification: Tests of a model for inverted DNA amplification"
+          authors: Brewer BJ, Payen C, Di Rienzi SC, Higgins MM, Ong G, Dunham MJ, and Raghuraman MK
+          conference: '<a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005699" target="_blank" rel="nofollow">PLoS Genetics. 11: e1005699 (2015)</a>'
 #      - paper:
 #        title: "Conducting a microbiome study"
 #        authors: Goodrich JK, Di Rienzi SC, Poole AC, Koren O, Walters WA, Caporaso JG, Knight R, and Ley RE 
