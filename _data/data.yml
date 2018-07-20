@@ -22,16 +22,19 @@ sidebar:
   
     interests:
         - interest:
-          item: Experimental Evolution
+          item: Small intestinal gut microbiome
+          link:
+        - interest:
+          item: Experimental evolution
           link:
         - interest:
           item: Nutrition
           link:
         - interest:
-          item: Metabolic Diseases
+          item: Metabolic diseases
           link:
         - interest:
-          item: Western Diet
+          item: Western diet
           link:
         - interest:
           item: Probiotics
@@ -52,7 +55,7 @@ sidebar:
 
 career-profile: 
     title: Research Topic
-    text: 'I am investigating the functional and genetic variation of the small intestinal microbiome that is selected by the Western diet'
+    text: 'The functional and genetic variation of the small intestinal microbiome selected upon by the Western diet'
 
 
 studies:
@@ -65,7 +68,7 @@ studies:
       degree: Post-Doc with Dr. Ruth Ley
       university: Cornell University, Ithaca, NY, USA
       time: 2011-2017
-      details: "I discovered that beneficial microbes within the small intestine are resilient to the toxicity of dietary fats. I demonstrated that resistance to dietary fat can be acquired through mutation of membrane and fatty acid metabolism genes; however, host-associated microbes vary in resistance to dietary fat, indicating that host-associated microbes are protected from the toxicity of dietary fats." 
+      details: "I discovered that beneficial microbes within the small intestine are resilient to the toxicity of dietary fats. I demonstrated that resistance to dietary fat can be acquired through mutation of membrane and fatty acid metabolism genes; however, fatty acid resistance is not required for survival in a high fat diet fed host, indicating that host-associated microbes are protected from the toxicity of dietary fats." 
     - education:
       degree: Ph.D. in Genome Sciences with Dr. Bonita Brewer
       university: University of Washington, Seattle, WA, USA
@@ -75,7 +78,7 @@ studies:
       degree: A.B. in Biology, summa cum laude, with Dr. Philip Meneely 
       university: Bryn Mawr College, Bryn Mawr, PA, USA
       time: 2002-2006
-      details: "I used Systems Biology to create and analyze a protein network for a C. elegans meiotic protein of unknown function."
+      details: "I used network analysis to predict the function of a C. elegans meiotic protein."
 
     
 
@@ -86,7 +89,7 @@ experiences:
     
     
     experiences:
-        - role: National Library of Medicine Training Program in Biomedical Informatics
+        - role: National Library of Medicine Training Fellowship in Biomedical Informatics
           time: 2017
         - role: Eli & Edythe Broad Fellow of the Life Sciences Research Foundation 
           time: 2013
