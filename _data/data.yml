@@ -107,12 +107,12 @@ publications:
     title: Publications 
     intro: "(*co-first authors)"
     publications:
-    - paper:
-        title: "Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult Monozygotic Twins"
+   # - paper:
+    #    title: "Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult Monozygotic Twins"
         #authors: Moreno-Gallego JL, Chou SP, Di Rienzi SC, Goodrich JK, Spector TD, Bell JT, Youngblut ND, Hewson I, Reyes A, Ley RE
        # conference: '<a href="https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(19)30059-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312819300599%3Fshowall%3Dtrue">Cell Host & Microbe. 25: 261-272 (2019)</a>'
-     - paper:
-        title: "Murine Methyl Donor Deficiency Impairs Early Growth in Association with Dysmorphic Small Intestinal Crypts and Reduced Gut Microbial Diversity"
+    # - paper:
+     #   title: "Murine Methyl Donor Deficiency Impairs Early Growth in Association with Dysmorphic Small Intestinal Crypts and Reduced Gut Microbial Diversity"
         #authors: Alves da Silva AV, de Castro Oliveira SB, Di Rienzi SC, Dehan LM, Rood JK, Carreira VS, Le H, Maier EA, Betz KJ, Aihara E, Ley RE, Preidis GA, Shen L, Moore SR
         #conference: '<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324351/">Current Developments in Nutrition. 3: nzy070 (2019)</a>'
       - paper:
