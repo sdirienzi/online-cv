@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Sara Di Rienzi
     tagline: Studying the adaptation of the gut microbiome to diet
-    pic: smallphotoSDR.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: DiRienzi.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: sara.dirienzi@bcm.edu
@@ -25,7 +25,7 @@ sidebar:
           item: Small intestinal gut microbiome
           link:
         - interest:
-          item: Experimental evolution
+          item: Gut Hormones
           link:
         - interest:
           item: Nutrition
@@ -63,7 +63,7 @@ studies:
       degree: Post-Doc with Dr. Robert Britton
       university: Baylor College of Medicine, Houston, TX, USA
       time: 2017-Present
-      details: "I developed an in vitro microbial community representative of the small intestinal microbiome. Currently, I am developping this system combined with metagenomic-based whole genome assembly and modeling methods in order to identify the microbial gene variants selected in the presence of modern dietary sugars and ultimately determine the effect of these gene variants in a host."
+      details: "I determined how gut hormone secretion is altered by dietary sugar-derived microbial metabolites."
     - education:
       degree: Post-Doc with Dr. Ruth Ley
       university: Cornell University, Ithaca, NY, USA
@@ -107,6 +107,10 @@ publications:
     title: Publications 
     intro: "(*co-first authors)"
     publications:
+      - paper:
+        title: "Adaptation of the gut microbiota to modern dietary sugars and sweeteners"
+        authors: Di Rienzi SC, Britton RA
+        conference: '<a href="https://doi.org/10.1093/advances/nmz118" target="_blank" rel="nofollow">Advances in Nutrition. nmz118 (2019)</a>'
       - paper:
         title: "Virome Diversity Correlates with Intestinal Microbiome Diversity in Adult Monozygotic Twins"
         authors: Moreno-Gallego JL, Chou SP, Di Rienzi SC, Goodrich JK, Spector TD, Bell JT, Youngblut ND, Hewson I, Reyes A, Ley RE
